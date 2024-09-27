@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Nikhil0Verma&icon=1&color=7)<br>
-🔭 I’m currently working on open source projects under GSSOC'24<br>🤝 I’m looking for help with understanding hard DSA problems<br>🌱 I’m currently practising DSA on codeforces<br>💬 I'm open to communicate via chat<br>⚡ Fun fact I'm a Generalist
+🔭 I’m currently working on Growthackr<br>🤝 I’m looking for networking and opportunities to share my knowledge.<br>🌱 I’m currently practising DSA on leetcode<br>💬 I'm open to communicating about Advance Android (MVC, MVVM, Retrofit..)<br>⚡ Fun fact I'm a Comb Dev Android + Web.
 
 ## 🌐 Socials:
 [![Runn on Play Store](https://img.shields.io/badge/Google_Play-03A9F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5011720043750659265) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikhil2003verma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil2003verma) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nikhil0Verma) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nikhil2003verma) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/ChallengingForce)
